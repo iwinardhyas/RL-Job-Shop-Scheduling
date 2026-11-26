@@ -8,7 +8,7 @@ atari-py==0.2.6
 attrs==20.3.0
 blessings==1.7
 cachetools==4.2.1
-certifi==2020.12.5
+certifi==2026.10.18
 chardet==4.0.0
 click==7.1.2
 cloudpickle==1.6.0
